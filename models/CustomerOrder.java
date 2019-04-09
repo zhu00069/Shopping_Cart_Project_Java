@@ -1,5 +1,12 @@
 package com.algonquincollege.cst8277.models;
-
+/**
+ * OrderedProduct class
+ * 
+ * date (modified) 2019 04 09
+ * 
+ * @author Bo Zhu,  040-684-747
+ * 
+ */
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
